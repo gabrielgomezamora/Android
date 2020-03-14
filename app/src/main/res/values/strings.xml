@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Holamundo</string>
+    <string name="nombreLogin">Nombre:</string>
+    <string name="password">Contrasena:</string>
+    <string name="hintUsuario">pepe</string>
+    <string name="hintPassword">*****</string>
+    <string name="botonLogin">LOGIN</string>
+
+</resources>
